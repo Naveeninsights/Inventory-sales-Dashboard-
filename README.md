@@ -10,7 +10,6 @@ This project presents an interactive Sales Dashboard created using Microsoft Exc
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
-
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
